@@ -23,7 +23,7 @@ async def start(client: Client, message: Message):
         ],
                 [
             InlineKeyboardButton(
-                text="☆ ᴄʜᴀɴɴᴇʟ💗", url=f"https://t.me/SKD_GROUP_2"
+                text="☆ ᴄʜᴀɴɴᴇʟ💗", url=f"https://t.me/9NyYJ_Sll_9mYjM1"
             ),
                 ],
                 [
