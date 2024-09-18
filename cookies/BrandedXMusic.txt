@@ -2,20 +2,22 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-.youtube.com	TRUE	/	TRUE	1760028111	PREF	tz=Asia.Calcutta&f5=30000&f7=100
-.youtube.com	TRUE	/	TRUE	1725469833	GPS	1
-.youtube.com	TRUE	/	FALSE	1760028065	SID	g.a000ngijmiZoNUVsdX2D584E9Ag3fcIwN6mO2W6x404vB0ssFoKtBRBnrW8jL59VDZEHoiKnwwACgYKAasSARMSFQHGX2MivZN899ujSRuuRECPxapiexoVAUF8yKoSlYlmnQ1CnkupCzhMBkbo0076
-.youtube.com	TRUE	/	TRUE	1757004065	__Secure-1PSIDTS	sidts-CjIBUFGoh3yJRr4R7pBHEeT1Axzy4ZAbJWxxC6Yun5L2_fDVeRbPSFEP8jCuKsIWkzum_BAA
-.youtube.com	TRUE	/	TRUE	1757004065	__Secure-3PSIDTS	sidts-CjIBUFGoh3yJRr4R7pBHEeT1Axzy4ZAbJWxxC6Yun5L2_fDVeRbPSFEP8jCuKsIWkzum_BAA
-.youtube.com	TRUE	/	TRUE	1760028065	__Secure-1PSID	g.a000ngijmiZoNUVsdX2D584E9Ag3fcIwN6mO2W6x404vB0ssFoKtMaMrElD2Ts2hnwtGYWeuiAACgYKAckSARMSFQHGX2MiOXSr9787Op5J7H5ZtC3FkhoVAUF8yKrOBWPWgkJXVP-3U96C3JbN0076
-.youtube.com	TRUE	/	TRUE	1760028065	__Secure-3PSID	g.a000ngijmiZoNUVsdX2D584E9Ag3fcIwN6mO2W6x404vB0ssFoKt0qCLlKEAk9FJVzRJ0ab2-gACgYKAW4SARMSFQHGX2MiGoNu0VH94-11hInQ2-D9qBoVAUF8yKqP7Q8_gt_D0X8raMwwObdE0076
-.youtube.com	TRUE	/	FALSE	1760028065	HSID	An7eAa0sNJForNQcv
-.youtube.com	TRUE	/	TRUE	1760028065	SSID	A3l1fEd0j6Nfui6Va
-.youtube.com	TRUE	/	FALSE	1760028065	APISID	fq9iGlr5YB_GN4KY/ABVcaZKVLhqF_6nFj
-.youtube.com	TRUE	/	TRUE	1760028065	SAPISID	LQVUMf_I3P4d4JZg/ADTYjJWbwhgH5yGdN
-.youtube.com	TRUE	/	TRUE	1760028065	__Secure-1PAPISID	LQVUMf_I3P4d4JZg/ADTYjJWbwhgH5yGdN
-.youtube.com	TRUE	/	TRUE	1760028065	__Secure-3PAPISID	LQVUMf_I3P4d4JZg/ADTYjJWbwhgH5yGdN
-.youtube.com	TRUE	/	TRUE	1760028066	LOGIN_INFO	AFmmF2swRQIhAKZK27nNTkN8dtgFhFh9D8sf4OHjr7YJ-C17LGDUuqA3AiA_vq6IYXMhGTxMYGjyS1JpwnWV1NJdW4gCVh7VGEMoyQ:QUQ3MjNmdzdWRmk1TDBIX2JvajdwZ0RsUzRCd3BOWXhXYUpheFN2dUhSWE9GQl9rRU5BeUIyVlhabExVaDB0eklyMHBRQWE0V0pJdDNaNElTeFhaeFJRSTJmM0xMTWw3Yll1aDN4U05uQ255WHNzbnpmd2txalgzbVdmQUNVSmY4YklhQkhwRzk2X0tRNlQyRERiQjc1ZWpfRF9kWkhLaVpR
-.youtube.com	TRUE	/	FALSE	1757004150	SIDCC	AKEyXzUp4zrMkCmAkrqNXn09pyNIQ9l7yvI9hk337hxzVhti7W3Thf0-_LU7h_hDfkKyZvud
-.youtube.com	TRUE	/	TRUE	1757004150	__Secure-1PSIDCC	AKEyXzWupNq7oRycTr07QEeWE4_GhV5CDiKUoZg-4Emnq2F9Vu3Kul6VYWSoAojqfji_Nl_P
-.youtube.com	TRUE	/	TRUE	1757004150	__Secure-3PSIDCC	AKEyXzXH4o4iEkAYIJ4drgPjXApdphmur_cnmzphnJiCMQatX0L-dJCnTXWneERk5Wo9DBw8nQ
+.mongodb.com	TRUE	/	FALSE	1742131282	optimizelyEndUserId	mon_oeu17265792592270.9200295100505755
+.mongodb.com	TRUE	/	TRUE	1734463285	_cq_duid	1.1726579269.mUyGSzbNycJ52hv3
+.mongodb.com	TRUE	/	TRUE	1726665686	_cq_pxg	3|l904128522204154506303465
+.mongodb.com	TRUE	/	FALSE	1758115291	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+17+2024+18%3A51%3A31+GMT%2B0530+(India+Standard+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d6cd224-2063-4c95-b303-b282ff13d1d1&interactionCount=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1
+.mongodb.com	TRUE	/	TRUE	1726665700	userEnriched	true
+.mongodb.com	TRUE	/	FALSE	1734355302	_gcl_au	1.1.1358997422.1726579302
+account.mongodb.com	FALSE	/	TRUE	1729171311	remember-user-device	sampandey267@gmail.com:672a6fb2df247d1d0dabda3c3482b4af9b9faba5a46f5e8cd20b01d3c4e50954-6ee8c0811dbd2ae04ee6d52a99ace797ac6e6c6efb56a68fd88e9e4be5774178bc89df7280dc813904528f5e4bdca3225d00759ab9b8cf2554acc9d6755258fe
+account.mongodb.com	FALSE	/	FALSE	1734355311	user-device	66e9826ececa307e69b0e0ee
+.mongodb.com	TRUE	/	FALSE	1761193580	_ga	GA1.1.1172284961.1726579320
+.mongodb.com	TRUE	/	FALSE	1758169582	mkjs_group_id	null
+.account.mongodb.com	TRUE	/	TRUE	1758169571	__stripe_mid	baa7bd3e-e6a4-42a1-9a46-456ac4c0a3c09cbde4
+.mongodb.com	TRUE	/	FALSE	1758169583	mkjs_user_id	%2224d14f257ceed9e3224b1667cd6796cffd1f1d4f67082f4b070f56b65630a0f3%22
+.mongodb.com	TRUE	/	FALSE	1749963577	intercom-id-qq7v0gqb	b3bd8589-1049-421a-ba3a-03214fc0da17
+.mongodb.com	TRUE	/	FALSE	1727238377	intercom-session-qq7v0gqb	
+.mongodb.com	TRUE	/	FALSE	1749963577	intercom-device-id-qq7v0gqb	0ffcb8b2-01ea-4951-b625-0cf313b59217
+.mongodb.com	TRUE	/	FALSE	1761193580	_ga_BE89PK7NX9	GS1.1.1726633579.2.0.1726633579.0.0.0
+.mongodb.com	TRUE	/	FALSE	1758169582	ajs_anonymous_id	4fd896c1-3152-4a6f-b66a-81025fb42b1a
+.mongodb.com	TRUE	/	FALSE	1758169583	analytics_session_id	1726633583036
+.mongodb.com	TRUE	/	FALSE	1758169583	analytics_session_id.last_access	1726633583036
